@@ -3,7 +3,7 @@ package alg;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class nizove3 {
+public class Nizove3 {
 	static String str=" ";
 	static char[] ch;
 	public static void main(String[] args) {
